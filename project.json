@@ -1,0 +1,25 @@
+{
+        "repoName": "projectLive",
+        "tagline": "Developer streaming service",
+        "color": "#fc6203",
+        "logo": "",
+        "channelName": "projectlive",
+        "desc": [
+            "projectLive is a tool for people to easily setup their own personale streaming server. Each instance will be able to issue streaming keys to use for authentication on the rmtp server.",
+            "The project is composed of three parts: \n:small_orange_diamond: The server, handling the stream conversion. \n:small_orange_diamond: The streaming frontend, where users will be able to watch the stream and interact ina chat window. \n:small_orange_diamond: The admin dashboard, where the streamer will be able to set the stream title and see all the stream stats (number of viewers etc.)"
+        ],
+        "team": [
+            ["Matteo G#9752", "Project Lead"]
+        ],
+        "links": [
+            ["Repo", "https://github.com/zero-to-mastery/projectLive/blob/master/README.md"]
+        ],
+        "poi": [
+            ["Repo", "https://github.com/zero-to-mastery/projectLive/blob/master/README.md"]
+        ],
+        "tasks": {
+            "title": "Notion.so Tasks",
+            "desc": "We will be using [Notion.so](https://notion.so) to manage the tasks within this project, To gain access to the project board, check the pinned messages in this channel for more information!"
+        }
+                
+    }
