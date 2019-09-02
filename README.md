@@ -13,6 +13,7 @@ The scope of this project is to build an easy to setup personal streaming servic
 - Material UI
 - [NodeMediaServer](https://github.com/illuspas/Node-Media-Server)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+- [FeathersJS](https://feathersjs.com/)
 
 ## Description
 
@@ -75,3 +76,11 @@ Make sure to have MongoDB installed locally or connect to your own cloud hosted 
 	- Installation directions for [Linux](https://docs.mongodb.com/manual/administration/install-on-linux/)
 - Cloud:
 	- MongoDB [Atlas](https://docs.atlas.mongodb.com/getting-started/)
+
+### Api
+
+this part uses FeathersJS to simplify connection, authentication and all related CRUD operations. In order to use this app, you need to setup the "mongodb" field in config/default.json to be your connection url
+
+### Rmtp
+
+make sure you have ffmpeg installed on your system. You can find instructions [here](https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg)
