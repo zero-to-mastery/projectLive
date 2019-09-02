@@ -29,6 +29,19 @@
                 "MySql",
                 "PostgreSQL"
             ]
+        },
+        {
+            "discord-name": "regartzpris#9141",
+            "desired-role": "Frontend/Backend Dev",
+            "skills": [
+                "React",
+                "Redux",
+                "Express",
+                "Node",
+                "Mysql",
+                "Javascript",
+                "Css"
+            ]
         }
     ]
 }
