@@ -29,7 +29,7 @@
                 "PostgreSQL"
             ]
         },
-        {
+                {
             "discord-name": "jwill9999#0931",
             "desired-role": "Frontend/Backend Dev",
             "skills": [
@@ -55,6 +55,19 @@
                 "CSS",
                 "Javascript",
                 "C/C++(beginner)",
+            ]
+        },
+                     {
+            "discord-name": "regartzpris#9141",
+            "desired-role": "Frontend/Backend Dev",
+            "skills": [
+                "React",
+                "Redux",
+                "Express",
+                "Node",
+                "Mysql",
+                "Javascript",
+                "Css"
             ]
         }
     ]
