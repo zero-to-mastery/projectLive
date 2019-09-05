@@ -1,6 +1,5 @@
 {
-    "contributors": [
-        {
+    "contributors": [{
             "discord-name": "exampleUser#1111",
             "desired-role": "Project Management",
             "skills": [
@@ -29,6 +28,22 @@
                 "MySql",
                 "PostgreSQL"
             ]
+        },
+        {
+            "discord-name": "jwill9999#0931",
+            "desired-role": "Frontend/Backend Dev",
+            "skills": [
+                "React",
+                "Redux",
+                "GraphQL",
+                "Express",
+                "Node",
+                "MongoDB",
+                "PHP",
+                "C#",
+                "MySql",
+                "PostgreSQL"
+             ]
         },
         {
             "discord-name": "Syed#4460",
