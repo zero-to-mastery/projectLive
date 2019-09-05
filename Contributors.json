@@ -43,6 +43,18 @@
                 "C#",
                 "MySql",
                 "PostgreSQL"
+             ]
+        },
+        {
+            "discord-name": "Syed#4460",
+            "desired-role": "Frontend Dev",
+            "skills": [
+                "React",
+                "Express(beginner)",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "C/C++(beginner)",
             ]
         }
     ]
