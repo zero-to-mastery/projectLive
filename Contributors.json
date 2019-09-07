@@ -69,6 +69,18 @@
                 "Javascript",
                 "Css"
             ]
+        },
+        {
+            "discord-name": "Teva#3620",
+            "desired-role": "Fullstack dev",
+            "skills": [
+                "React",
+                "Redux",
+                "Express",
+                "Node",
+                "MongoDB(beginner)",
+                "PostgreSQL(beginner)"
+            ]
         }
     ]
 }
