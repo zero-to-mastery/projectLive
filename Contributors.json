@@ -50,12 +50,12 @@
             "desired-role": "Frontend/Backend Dev",
             "skills": [
                 "React",
+                "Javascript",
                 "Express",
                 "Node",
                 "PostgreSQL",
                 "HTML",
                 "CSS",
-                "Javascript",
                 "C/C++(beginner)",
             ]
         },
