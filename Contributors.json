@@ -47,13 +47,15 @@
         },
         {
             "discord-name": "Syed#4460",
-            "desired-role": "Frontend Dev",
+            "desired-role": "Frontend/Backend Dev",
             "skills": [
                 "React",
-                "Express(beginner)",
+                "Javascript",
+                "Express",
+                "Node",
+                "PostgreSQL",
                 "HTML",
                 "CSS",
-                "Javascript",
                 "C/C++(beginner)",
             ]
         },
