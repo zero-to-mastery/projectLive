@@ -83,6 +83,16 @@
                 "MongoDB(beginner)",
                 "PostgreSQL(beginner)"
             ]
+        },
+        {
+            "discord-name": "banaanilettu#6323",
+            "desired-role": "Frontend",
+            "skills": [
+                "React",
+                "Vanilla Javascript",
+                "HTML",
+                "kinda beginner in everything"
+            ]
         }
     ]
 }
