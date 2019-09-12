@@ -56,7 +56,7 @@
                 "PostgreSQL",
                 "HTML",
                 "CSS",
-                "C/C++(beginner)",
+                "C/C++(beginner)"
             ]
         },
                      {
@@ -82,6 +82,22 @@
                 "Node",
                 "MongoDB(beginner)",
                 "PostgreSQL(beginner)"
+            ]
+        },
+        {
+            "discord-name": "Chazz_666",
+            "desired-role": "Backend Dev",
+            "skills": [
+                "Javascript",
+                "NodeJS",
+                "Express",
+                "MongoDB(beginner)",
+                "Redis(beginner)",
+                "C#",
+                "Docker",
+                "Kubernetes",
+                "Jenkins",
+                "C"
             ]
         }
     ]
