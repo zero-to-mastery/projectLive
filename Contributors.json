@@ -56,7 +56,7 @@
                 "PostgreSQL",
                 "HTML",
                 "CSS",
-                "C/C++(beginner)",
+                "C/C++(beginner)"
             ]
         },
                      {
@@ -85,7 +85,22 @@
             ]
         },
         {
-            "discord-name": "banaanilettu#6323",
+            "discord-name": "Chazz_666",
+            "desired-role": "Backend Dev",
+            "skills": [
+                "Javascript",
+                "NodeJS",
+                "Express",
+                "MongoDB(beginner)",
+                "Redis(beginner)",
+                "C#",
+                "Docker",
+                "Kubernetes",
+                "Jenkins",
+                "C"
+            ]
+        },
+        "discord-name": "banaanilettu#6323",
             "desired-role": "Frontend",
             "skills": [
                 "React",
