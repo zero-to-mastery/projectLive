@@ -99,6 +99,20 @@
                 "Jenkins",
                 "C"
             ]
+        },
+        {
+            "discord-name": "pearl#8516",
+            "desired-role": "Backend Dev",
+            "skills": [
+                "Html",
+                "Css",
+                "Javascript",
+                "NodeJS",
+                "Express",
+                "MongoDB",
+                "Python / Flask",
+                "PostgreSql"
+            ]
         }
     ]
 }
