@@ -100,7 +100,22 @@
                 "C"
             ]
         },
-        "discord-name": "banaanilettu#6323",
+        {
+            "discord-name": "pearl#8516",
+            "desired-role": "Backend Dev",
+            "skills": [
+                "Html",
+                "Css",
+                "Javascript",
+                "NodeJS",
+                "Express",
+                "MongoDB",
+                "Python / Flask",
+                "PostgreSql"
+              ]
+        },
+        {
+          "discord-name": "banaanilettu#6323",
             "desired-role": "Frontend",
             "skills": [
                 "React",
