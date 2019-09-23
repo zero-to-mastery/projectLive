@@ -134,6 +134,19 @@
                 "Javascript",
                 "Adobe XD"
             ]
+        },{
+            "discord-name":"diegchav#8519",
+            "desired-role":"Fullstack",
+            "skills":[
+                "React",
+                "Redux",
+                "GraphQL",
+                "NodeJS",
+                "Typescript",
+                "NestJS",
+                "MongoDB",
+                "PostgreSQL"
+            ]
         }
     ]
 }
