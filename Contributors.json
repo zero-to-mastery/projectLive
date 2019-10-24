@@ -147,6 +147,18 @@
                 "MongoDB",
                 "PostgreSQL"
             ]
+        },
+        {
+            "discord-name":"diegchav#8519",
+            "desired-role":"Fullstack",
+            "skills":[
+                "React",
+                "GraphQL",
+                "NodeJS",
+                "Typescript",
+                "MongoDB",
+                "PostgreSQL"
+            ]
         }
     ]
 }
