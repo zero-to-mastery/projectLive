@@ -147,6 +147,10 @@
                 "MongoDB",
                 "PostgreSQL"
             ]
+        },{
+        	"discord-name":"TJBdev#1986",
+        	"desired-role":"Fullstack",
+        	"skills":["React", "Redux", "NodeJS", "PostgreSQL", "MongoDB", "Express", "HTML", "CSS", "Javascript", "Java", "C++", "(beginner in most things, 1.5 years of uni with Java and some C++)"]
         }
     ]
 }
