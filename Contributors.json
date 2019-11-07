@@ -1,152 +1,163 @@
 {
-    "contributors": [{
-            "discord-name": "exampleUser#1111",
-            "desired-role": "Project Management",
-            "skills": [
-                "React",
-                "Redux",
-                "Express",
-                "Node",
-                "MongoDB",
-                "Java",
-                "Python",
-                "MySql",
-                "PostgreSQL"
-            ]
-        },
-        {
-            "discord-name": "exampleUser#2222",
-            "desired-role": "Backend Dev",
-            "skills": [
-                "React",
-                "Redux",
-                "Express",
-                "Node",
-                "MongoDB",
-                "Java",
-                "Python",
-                "MySql",
-                "PostgreSQL"
-            ]
-        },
-                {
-            "discord-name": "jwill9999#0931",
-            "desired-role": "Frontend/Backend Dev",
-            "skills": [
-                "React",
-                "Redux",
-                "GraphQL",
-                "Express",
-                "Node",
-                "MongoDB",
-                "PHP",
-                "C#",
-                "MySql",
-                "PostgreSQL"
-             ]
-        },
-        {
-            "discord-name": "Syed#4460",
-            "desired-role": "Frontend/Backend Dev",
-            "skills": [
-                "React",
-                "Javascript",
-                "Express",
-                "Node",
-                "PostgreSQL",
-                "HTML",
-                "CSS",
-                "C/C++(beginner)"
-            ]
-        },
-                     {
-            "discord-name": "regartzpris#9141",
-            "desired-role": "Frontend/Backend Dev",
-            "skills": [
-                "React",
-                "Redux",
-                "Express",
-                "Node",
-                "Mysql",
-                "Javascript",
-                "Css"
-            ]
-        },
-        {
-            "discord-name": "Teva#3620",
-            "desired-role": "Fullstack dev",
-            "skills": [
-                "React",
-                "Redux",
-                "Express",
-                "Node",
-                "MongoDB(beginner)",
-                "PostgreSQL(beginner)"
-            ]
-        },
-        {
-            "discord-name": "Chazz_666",
-            "desired-role": "Backend Dev",
-            "skills": [
-                "Javascript",
-                "NodeJS",
-                "Express",
-                "MongoDB(beginner)",
-                "Redis(beginner)",
-                "C#",
-                "Docker",
-                "Kubernetes",
-                "Jenkins",
-                "C"
-            ]
-        },
-        {
-            "discord-name": "pearl#8516",
-            "desired-role": "Backend Dev",
-            "skills": [
-                "Html",
-                "Css",
-                "Javascript",
-                "NodeJS",
-                "Express",
-                "MongoDB",
-                "Python / Flask",
-                "PostgreSql"
-              ]
-        },
-        {
-          "discord-name": "banaanilettu#6323",
-            "desired-role": "Frontend",
-            "skills": [
-                "React",
-                "Vanilla Javascript",
-                "HTML",
-                "kinda beginner in everything"
-            ]
-        },{
-            "discord-name":"dogcatmouse#9095",
-            "desired-role":"Frontend",
-            "skills":[
-                "React",
-                "Redux",
-                "HTML",
-                "CSS",
-                "Javascript",
-                "Adobe XD"
-            ]
-        },{
-            "discord-name":"diegchav#8519",
-            "desired-role":"Fullstack",
-            "skills":[
-                "React",
-                "Redux",
-                "GraphQL",
-                "NodeJS",
-                "Typescript",
-                "NestJS",
-                "MongoDB",
-                "PostgreSQL"
-            ]
-        }
-    ]
+  "contributors": [
+    {
+      "discord-name": "exampleUser#1111",
+      "desired-role": "Project Management",
+      "skills": [
+        "React",
+        "Redux",
+        "Express",
+        "Node",
+        "MongoDB",
+        "Java",
+        "Python",
+        "MySql",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "discord-name": "exampleUser#2222",
+      "desired-role": "Backend Dev",
+      "skills": [
+        "React",
+        "Redux",
+        "Express",
+        "Node",
+        "MongoDB",
+        "Java",
+        "Python",
+        "MySql",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "discord-name": "jwill9999#0931",
+      "desired-role": "Frontend/Backend Dev",
+      "skills": [
+        "React",
+        "Redux",
+        "GraphQL",
+        "Express",
+        "Node",
+        "MongoDB",
+        "PHP",
+        "C#",
+        "MySql",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "discord-name": "Syed#4460",
+      "desired-role": "Frontend/Backend Dev",
+      "skills": [
+        "React",
+        "Javascript",
+        "Express",
+        "Node",
+        "PostgreSQL",
+        "HTML",
+        "CSS",
+        "C/C++(beginner)"
+      ]
+    },
+    {
+      "discord-name": "regartzpris#9141",
+      "desired-role": "Frontend/Backend Dev",
+      "skills": [
+        "React",
+        "Redux",
+        "Express",
+        "Node",
+        "Mysql",
+        "Javascript",
+        "Css"
+      ]
+    },
+    {
+      "discord-name": "Teva#3620",
+      "desired-role": "Fullstack dev",
+      "skills": [
+        "React",
+        "Redux",
+        "Express",
+        "Node",
+        "MongoDB(beginner)",
+        "PostgreSQL(beginner)"
+      ]
+    },
+    {
+      "discord-name": "Chazz_666",
+      "desired-role": "Backend Dev",
+      "skills": [
+        "Javascript",
+        "NodeJS",
+        "Express",
+        "MongoDB(beginner)",
+        "Redis(beginner)",
+        "C#",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "C"
+      ]
+    },
+    {
+      "discord-name": "pearl#8516",
+      "desired-role": "Backend Dev",
+      "skills": [
+        "Html",
+        "Css",
+        "Javascript",
+        "NodeJS",
+        "Express",
+        "MongoDB",
+        "Python / Flask",
+        "PostgreSql"
+      ]
+    },
+    {
+      "discord-name": "banaanilettu#6323",
+      "desired-role": "Frontend",
+      "skills": [
+        "React",
+        "Vanilla Javascript",
+        "HTML",
+        "kinda beginner in everything"
+      ]
+    },
+    {
+      "discord-name": "dogcatmouse#9095",
+      "desired-role": "Frontend",
+      "skills": ["React", "Redux", "HTML", "CSS", "Javascript", "Adobe XD"]
+    },
+    {
+      "discord-name": "diegchav#8519",
+      "desired-role": "Fullstack",
+      "skills": [
+        "React",
+        "Redux",
+        "GraphQL",
+        "NodeJS",
+        "Typescript",
+        "NestJS",
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "discord-name": "Diane#3610",
+      "desired-role": "Fullstack",
+      "skills": [
+        "React",
+        "Redux",
+        "Express(minimal)",
+        "Node",
+        "MongoDB(minimal)",
+        "Java(minimal)",
+        "Python(minimal)",
+        "MySql",
+        "PostgreSQL"
+      ]
+    }
+  ]
 }
