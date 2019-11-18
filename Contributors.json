@@ -163,6 +163,20 @@
         		"C++", 
         		"(beginner in most things, 1.5 years of uni with Java and some C++)"
         	]
+        },
+        {
+            "discord-name":"Aneesh#4995",
+            "desired-role":"Fullstack",
+            "skills":[
+                "React",
+                "GraphQL",
+                "NodeJS",
+                "Typescript",
+                "python",
+                "flask"
+                "MongoDB",
+                "PostgreSQL"
+            ]
         }
     ]
 }
