@@ -147,6 +147,20 @@
                 "MongoDB",
                 "PostgreSQL"
             ]
+        },
+        {
+            "discord-name":"Aneesh#4995",
+            "desired-role":"Fullstack",
+            "skills":[
+                "React",
+                "GraphQL",
+                "NodeJS",
+                "Typescript",
+                "python",
+                "flask"
+                "MongoDB",
+                "PostgreSQL"
+            ]
         }
     ]
 }
