@@ -20,6 +20,6 @@
         "tasks": {
             "title": "Notion.so Tasks",
             "desc": "We will be using [Notion.so](https://notion.so) to manage the tasks within this project, To gain access to the project board, check the pinned messages in this channel for more information!"
-        }
-                
+        },
+        "welcomeMsg": "Please take a moment to read through the pinned messages. Here you will find important notes and how to get stated with the project!"         
     }
